@@ -1,3 +1,9 @@
+urbit (0.4.3-1) UNRELEASED; urgency=medium
+
+  * Minor version upgrade to 0.4.3
+
+ -- Raymond Pasco <ray@arius.the.ug>  Tue, 13 Dec 2016 14:13:59 -0500
+
 urbit (0.4-1) unstable; urgency=low
 
   * 0.4 deb metadata release
