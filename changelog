@@ -1,8 +1,8 @@
-urbit (0.4.3-1) UNRELEASED; urgency=medium
+urbit (0.4.5-1) unstable; urgency=low
 
-  * Minor version upgrade to 0.4.3
+  * Minor version upgrade to 0.4.5
 
- -- Raymond Pasco <ray@arius.the.ug>  Tue, 13 Dec 2016 14:13:59 -0500
+ -- Raymond Pasco <ray@the.ug>  Sat, 17 Jun 2017 15:18:08 -0400
 
 urbit (0.4-1) unstable; urgency=low
 
