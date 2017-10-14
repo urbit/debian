@@ -1,11 +1,5 @@
-urbit (0.4.5-1) unstable; urgency=low
+urbit (0.5-1) unstable; urgency=medium
 
-  * Minor version upgrade to 0.4.5
+  * hoon %143; new boot sequence; %jael support
 
- -- Raymond Pasco <ray@the.ug>  Sat, 17 Jun 2017 15:18:08 -0400
-
-urbit (0.4-1) unstable; urgency=low
-
-  * 0.4 deb metadata release
-
- -- Raymond Pasco <ray@the.ug>  Tue, 25 Oct 2016 12:56:41 -0400
+ -- Ted Blackman <ted@tlon.io>  Thu, 12 Oct 2017 17:11:53 -0700
